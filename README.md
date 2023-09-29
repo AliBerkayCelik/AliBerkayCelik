@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ali Berkay Celik
-## Front-End Developer & React & React Native & Mobile
+## Full Stack Developer & React & React Native & Mobile
 
 ### Connect with me:
 <p align="left">
